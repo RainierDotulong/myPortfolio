@@ -48,3 +48,6 @@ The works page is just my past projects that was commited to github, and it take
 ## Contact Me
 
 The contact me was the most complicated, as it had a bunch of elements to it. currently the right side of the page does nothing as it doesn't link to anything. Hopefully it will change soon.
+---
+## PROJECT LINK
+https://rainierdotulong.github.io/myPortfolio/
