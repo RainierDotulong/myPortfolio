@@ -27,15 +27,23 @@ the logo and the links. clicking on the logo reloads the page, while clicking on
 
 ## Home
 
-## The home page is pretty simple, it has a hero image as a background and an introductory statement from me.
+---
+
+The home page is pretty simple, it has a hero image as a background and an introductory statement from me.
+
+---
 
 ## About Me
 
-## the about me was pretty tricky to build, I had to seperate it into two contents(left and right) to be able to scale it as I want.
+---
+
+the about me was pretty tricky to build, I had to seperate it into two contents(left and right) to be able to scale it as I want.
 
 ## Works
 
-## The works page is just my past projects that was commited to github, and it takes you to the project when you click the image
+---
+
+The works page is just my past projects that was commited to github, and it takes you to the project when you click the image
 
 ## Contact Me
 
